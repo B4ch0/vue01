@@ -1,4 +1,4 @@
-# fipugram
+# fipugram Vue V1
 
 ## Project setup
 ```
